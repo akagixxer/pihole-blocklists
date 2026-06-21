@@ -1,0 +1,51 @@
+# Core YouTube domains
+youtube.com
+www.youtube.com
+m.youtube.com
+youtube-nocookie.com
+www.youtube-nocookie.com
+
+# YouTube API / backend
+youtubei.googleapis.com
+youtube.googleapis.com
+s.youtube.com
+s.ytimg.com
+
+# YouTube image CDN
+ytimg.com
+i.ytimg.com
+i1.ytimg.com
+i2.ytimg.com
+i3.ytimg.com
+i4.ytimg.com
+
+# YouTube video streaming CDN
+googlevideo.com
+redirector.googlevideo.com
+r1---sn.googlevideo.com
+r2---sn.googlevideo.com
+r3---sn.googlevideo.com
+r4---sn.googlevideo.com
+r5---sn.googlevideo.com
+r6---sn.googlevideo.com
+r7---sn.googlevideo.com
+r8---sn.googlevideo.com
+r9---sn.googlevideo.com
+r10---sn.googlevideo.com
+
+# YouTube TV
+youtube-ui.l.google.com
+youtube-ui.googleapis.com
+youtubei.googleapis.com
+
+# YouTube Music
+music.youtube.com
+
+# YouTube Kids
+kids.youtube.com
+
+# YouTube Shorts
+shorts.youtube.com
+
+# YouTube embedded player
+www.youtube-nocookie.com
